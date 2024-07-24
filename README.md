@@ -45,36 +45,36 @@ This project utilizes various computer vision techniques to analyze and process 
     ```
 
 ## Project Structure
-computer-vision-project/
-├── Camera_movement/
-│ ├── __init__.py/
-│ └── Camera_movement.py/
-├── Development_and_analysis/
-│ └── color_assignment.ipynb/
-├── player_ball_assigner/
-│ ├── __init__.py/
-│ └── player_ball_assigner.py/
-├── Speed_and_distance_estimator/
-│ ├── __init__.py/
-│ └── Speed_and_distance_estimator.py/
-├── stubs/
-│ ├── stubs.pkl/
-│ └── tracks_stubs.pkl/
-├── team_assigner/
-│ ├── __init__.py/
-│ └── team_assigner.py/
-├── trackers/
-│ ├── __init__.py/
-│ └── trackers.py/
-├── utils/
-│ ├── __init__.py/
-│ └── bbox_utils.py/
-│ └── video_utils.py/
-├── view_transformer/
-│ ├── __init__.py/
-│ └── view_transformer.py/
-├── main.py
-└── Yolo_infrance.py
+computer-vision-project/<br>
+├── Camera_movement/<br>
+│ ├── __init__.py/<br>
+│ └── Camera_movement.py/<br>
+├── Development_and_analysis/<br>
+│ └── color_assignment.ipynb/<br>
+├── player_ball_assigner/<br>
+│ ├── __init__.py/<br>
+│ └── player_ball_assigner.py/<br>
+├── Speed_and_distance_estimator/<br>
+│ ├── __init__.py/<br>
+│ └── Speed_and_distance_estimator.py/<br>
+├── stubs/<br>
+│ ├── stubs.pkl/<br>
+│ └── tracks_stubs.pkl/<br>
+├── team_assigner/<br>
+│ ├── __init__.py/<br>
+│ └── team_assigner.py/<br>
+├── trackers/<br>
+│ ├── __init__.py/<br>
+│ └── trackers.py/<br>
+├── utils/<br>
+│ ├── __init__.py/<br>
+│ └── bbox_utils.py/<br>
+│ └── video_utils.py/<br>
+├── view_transformer/<br>
+│ ├── __init__.py/<br>
+│ └── view_transformer.py/<br>
+├── main.py<br>
+└── Yolo_infrance.py<br>
 
 ## Custom YOLO Training
 Fine-tune and train your own YOLO model on your custom dataset.
