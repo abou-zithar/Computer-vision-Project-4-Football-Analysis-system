@@ -1,4 +1,4 @@
-# Computer Vision Project
+# Football Analysis system Computer Vision Project
 
 ## Introduction
 This project utilizes various computer vision techniques to analyze and process images and videos, specifically focusing on object detection, segmentation, optical flow, and perspective transformation. The following components are implemented:
